@@ -1,0 +1,13 @@
+/**----------------------
+ *    COLORES
+ *------------------------**/
+
+:root {
+	--bg-header: #03a9f4;
+	--bg-footer: #616161;
+	--bg-content: #129a22;
+	--bg-aside: #673ab7;
+	--bg-hero: #d22b1f;
+	--bg-body: #fff;
+	--color-body:#fff;
+}

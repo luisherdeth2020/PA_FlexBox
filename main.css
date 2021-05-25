@@ -1,0 +1,9 @@
+/**----------------------
+ *    IMPORT CSS
+ *------------------------**/
+ 
+@import url(./css/colores.css);
+@import url(./css/layouts.css);
+@import url(./css/normalize.css);
+@import url(./css/reset.css);
+@import url(./css/tipografias.css);
