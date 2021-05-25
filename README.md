@@ -1,6 +1,6 @@
 <h1 align="center">Web Template Desktop 👇</h1>
 
-<p align="center"><img src="template.jpg"/></p> 
+<p align="center"><img src="template.png"/></p> 
 
 ## Autor ✒️
 
